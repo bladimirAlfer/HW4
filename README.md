@@ -2,6 +2,6 @@
 
 Integrantes:
 
-Chavez Ayme, Anthony
-Alferez Vicente, Bladimir
-Valdivia Schreiber, Mauricio Guillermo Manuel
+- Chavez Ayme, Anthony
+- Alferez Vicente, Bladimir
+- Valdivia Schreiber, Mauricio Guillermo Manuel
