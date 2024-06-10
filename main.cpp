@@ -1,3 +1,8 @@
+// Integrantes 
+// Chavez Ayme, Anthony
+// Alferez Vicente, Bladimir
+// Valdivia Schreiber, Mauricio Guillermo Manuel
+
 #include <iostream>
 using namespace std;
 
